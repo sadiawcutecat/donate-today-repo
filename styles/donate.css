@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+}
+.banner{
+    text-align: center;
+    background-image: url("../images/donation13.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 1538px 90vh ;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    
+    
+   
+}
+.banner h1{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.banner-title{
+    color: white;
+    width: 50%;
+     margin: auto;
+   
+   
+}
+.btn{
+    font-size:30px ;
+    font-style: oblique;
+    background-color: rgba(240, 12, 12, 0.999);
+    margin-top: 10px;
+    Donate Now
+    color: white;
+    border: 1px;
+    border-radius: 4px;
+    
+    
+}
+
+/* donate today */
+.donate-today{
+     text-align: center;
+     font-family: sans-serif;
+     width: 50%;
+     margin: auto;
+}
+
+.donate-d{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    width: 100%;
+    height: 15vh;
+    text-align: center;
+    margin: 40px;
+}
+.child1{
+    padding: 40px;
+    background-color:rgb(227, 251, 251);
+    font-size:25px ;
+    font-weight:bold ;
+    color:rgba(0, 0, 0, 0.927) ;
+    margin-right: 10px;
+}
+.child2{
+    padding: 40px;
+    background-color:rgba(253, 197, 187, 0.758);
+    font-size:25px ;
+    font-weight:bold ;
+    color:rgb(236, 50, 17) ;
+    border-width: 2px;
+    border-style: solid;
+    border-color: tomato;
+    margin-right: 10px;
+   
+}
+
+.child3{
+    padding: 40px;
+    background-color:rgb(227, 251, 251);
+    font-size:25px ;
+    font-weight:bold ;
+    color:rgba(0, 0, 0, 0.927) ;
+    margin-right: 10px;
+  
+
+}
+.child4{
+    padding: 40px;
+    background-color:rgb(227, 251, 251);
+    font-size:25px ;
+    font-weight:bold ;
+    color:rgba(0, 0, 0, 0.927) ;
+    margin-right: 10px;
+
+}
+
+.child5{
+    padding: 40px;
+    background-color: rgb(227, 251, 251);
+    font-size:25px ;
+    font-weight:bold ;
+    color:rgba(0, 0, 0, 0.927) ;
+
+}
+.donate-title h2{
+    margin-bottom: 30px;
+}
