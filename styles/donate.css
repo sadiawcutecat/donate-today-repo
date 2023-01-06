@@ -63,10 +63,29 @@
     font-weight:bold ;
     color:rgba(0, 0, 0, 0.927) ;
     margin-right: 10px;
+} 
+.child1:hover{
+    padding: 40px;
+    background-color:rgb(73, 245, 159);
+    font-size:25px ;
+    font-weight:bold ;
+    color:rgba(0, 0, 0, 0.927) ;
+    margin-right: 10px;
 }
 .child2{
     padding: 40px;
     background-color:rgba(253, 197, 187, 0.758);
+    font-size:25px ;
+    font-weight:bold ;
+    color:rgb(236, 50, 17) ;
+    border-width: 2px;
+    border-style: solid;
+    border-color: tomato;
+    margin-right: 10px;
+}
+.child2:hover{
+    padding: 40px;
+    background-color:rgb(73, 245, 159);
     font-size:25px ;
     font-weight:bold ;
     color:rgb(236, 50, 17) ;
@@ -87,6 +106,14 @@
   
 
 }
+.child3:hover{
+    padding: 40px;
+    background-color:rgb(73, 245, 159);
+    font-size:25px ;
+    font-weight:bold ;
+    color:rgba(0, 0, 0, 0.927) ;
+    margin-right: 10px;
+}
 .child4{
     padding: 40px;
     background-color:rgb(227, 251, 251);
@@ -96,6 +123,14 @@
     margin-right: 10px;
 
 }
+.child4:hover{
+    padding: 40px;
+    background-color:rgb(73, 245, 159);
+    font-size:25px ;
+    font-weight:bold ;
+    color:rgba(0, 0, 0, 0.927) ;
+    margin-right: 10px;
+}
 
 .child5{
     padding: 40px;
@@ -104,6 +139,14 @@
     font-weight:bold ;
     color:rgba(0, 0, 0, 0.927) ;
 
+}
+.child5:hover{
+    padding: 40px;
+    background-color:rgb(73, 245, 159);
+    font-size:25px ;
+    font-weight:bold ;
+    color:rgba(0, 0, 0, 0.927) ;
+    margin-right: 10px;
 }
 .donate-title h2{
     margin-bottom: 30px;
@@ -117,9 +160,14 @@
     margin-bottom: 40px;
 }
 .donate-plan{
-    width: 50%;
+    width: 70%;
     margin: auto;
     text-align: center;
+}
+.d-pp{
+    width: 50%;
+    text-align: center;
+    margin: auto;
 }
     
 .donate-p-title{
@@ -207,8 +255,12 @@
 .last h2{
     text-align: center;
 }
+.last p{
+    text-align: center;
+}
+
 .para-d{
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .form{
     height: 70px;
@@ -236,16 +288,18 @@
       border-style:solid;
       border-color:tomato;
       border-radius: 4px;
+      margin-left: -8px;
 }
 .f-design{
     text-align: center;
-    padding: 20px;
+    /* padding: 20px; */
 }
 .footer{
     background-color: black;
     height: 100px;
     width: 100;
     padding: 40px;
+
   
    
    /* left: 0;
@@ -256,14 +310,19 @@
   text-align: center;
   height: 150px; */
 }
+.l-container{
+    margin-bottom: 90px;
+
+}
 .footer h3{
     color: tomato;
     text-align: center;
-    font-size: large;
+    font-size: 25px;
     font-style:oblique;
+    font-family: 'Lobster', cursive;
    }
 .footer p{
-    color: white;
+    color: darkgray;
     text-align: center;
     margin-top: 20px;
     font-family: sans-serif;
