@@ -198,7 +198,80 @@
     padding: 20px;
 
 }
-/* service */
+
+.last{
+    width: 50%;
+    margin: auto;
+    margin-top: 70px;
+}
+.last h2{
+    text-align: center;
+}
+.para-d{
+    margin-bottom: 30px;
+}
+.form{
+    height: 70px;
+    width: 600px;
+    background-color: rgb(232, 201, 164); 
+    padding: 50px;
+    margin: 20px;
+    /* border-style: solid;
+    border-color: rgb(236, 210, 178);
+    border-radius: 20px; */
+}
+.email-d{
+    height: 50px;
+    width: 250px;
+    background-color:rgb(238, 234, 234) ;
+    border-style:solid;
+    border-color: grey;
+    border-radius: 4px;
+}
+.sub-d{
+      height: 55px;
+      width: 150px;
+      color:white;
+      background-color: tomato;
+      border-style:solid;
+      border-color:tomato;
+      border-radius: 4px;
+}
+.f-design{
+    text-align: center;
+    padding: 20px;
+}
+.footer{
+    background-color: black;
+    height: 100px;
+    width: 100;
+    padding: 40px;
+  
+   
+   /* left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 150px; */
+}
+.footer h3{
+    color: tomato;
+    text-align: center;
+    font-size: large;
+    font-style:oblique;
+   }
+.footer p{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-family: sans-serif;
+    
+  
+    
+    
+}
 
 
 
